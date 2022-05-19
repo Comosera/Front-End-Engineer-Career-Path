@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="C:\Users\Kev\Desktop\Projects\Dasmotos_Arts_&_Crafts\Resources\css\index.css"
+    rel="stylesheet" type="text/css">
+  </head>
+
+  <body>
+    <div class="dasmoto_banner">
+      <h1> Dasmoto's Arts & Crafts </h1>
+    </div>
+
+    <div class="brushes">
+      <h1> Brushes </h1>
+      <img src="https://content.codecademy.com/courses/freelance-1/unit-2/hacksaw.jpeg?_gl=1*y9me3m*_ga*MTg4MzIwMTI3OS4xNjQ5MDQxMDI1*_ga_3LRZM6TM9L*MTY1MjkyNjEyMy43LjEuMTY1Mjk0MDA5NC40NQ..">
+      <h3> Hacksaw Brushes </h3>
+      <p>
+        Made of the highest quality oak, Hacksaw brushes are known for their
+        weight and ability to hold paint in large amounts. Available in different sizes.
+        <span> Starting at $3.00 / brush. </span>
+      </p>
+
+    </div>
+    <div class="frames">
+      <h1> Frames </h1>
+      <img src="https://content.codecademy.com/courses/freelance-1/unit-2/frames.jpeg?_gl=1*1cwqegs*_ga*MTg4MzIwMTI3OS4xNjQ5MDQxMDI1*_ga_3LRZM6TM9L*MTY1MjkyNjEyMy43LjEuMTY1Mjk0MDA5NC40NQ..">
+      <h3> Art Frames (assorted) </h3>
+      <p>
+        Assorted frames made of different material, including MDF, birchwood,
+        and PDE. Select frames can be sanded and painted according to your needs.
+        <span> Starting at $2.00 / frame. </span>
+      </p>
+    </div>
+
+    <div class="paint">
+      <h1> Paint </h1>
+      <img src="https://content.codecademy.com/courses/freelance-1/unit-2/finnish.jpeg?_gl=1*1cwqegs*_ga*MTg4MzIwMTI3OS4xNjQ5MDQxMDI1*_ga_3LRZM6TM9L*MTY1MjkyNjEyMy43LjEuMTY1Mjk0MDA5NC40NQ..">
+      <h3> Clean Finnish Paint </h3>
+      <p>
+        Imported paint from Finland. Over 256 colors available in-store,
+        varying in quantity (1 oz. to 8 oz.). Clean Finnish paint microbinds to canvas,
+         increasing the finish and longevity of any artwork.
+        <span> Starting at $5.00 / tube. </span>
+      </p>
+    </div>
+
+  </body>
+
+</html>
