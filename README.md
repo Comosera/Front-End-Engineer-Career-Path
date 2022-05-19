@@ -13,4 +13,4 @@ After this Path, you will be able to:
 -Test React applications with Jest and Enzyme
 -Deploy React applications with Netlify
 -Apply SEO tactics to improve your site’s popularity
--Ace the engineering interview
+-Ace the engineering interview.
